@@ -1,0 +1,3 @@
+rootProject.name = 'devLocationMobile'
+
+include ':app'
